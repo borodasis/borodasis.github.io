@@ -1,2 +1,2 @@
-# borodasis.github.io
+# Lobanov-Sergey.github.io
 Первая работа
